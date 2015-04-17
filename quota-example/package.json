@@ -1,8 +1,8 @@
 {
-  "name": "spikearrest-example",
+  "name": "quota-example",
   "version": "0.0.1",
   "private": "true",
-  "description": "My new Apigee 127 Project",
+  "description": "Apigee 127 Project with quota policy",
   "keywords": [],
   "author": "",
   "license": "",
@@ -24,8 +24,8 @@
     "start": "node app.js"
   },
   "api": {
-    "name": "spikearrest-example",
-    "basePath": "/spikearrest-example",
+    "name": "quota-example",
+    "basePath": "/quota-example",
     "docsPath": "/docs",
     "main": "app.js"
   }
